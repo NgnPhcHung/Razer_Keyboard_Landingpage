@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.7377c041.js",
+    "static/js/787.829ca4f2.chunk.js": "/static/js/787.829ca4f2.chunk.js",
+    "static/media/Ink - 21536.mp4": "/static/media/Ink - 21536.210aa2b7cb71aa6ce53f.mp4",
+    "static/media/SourceSansPro-Regular.ttf": "/static/media/SourceSansPro-Regular.df87f53caf449a3b7572.ttf",
+    "static/media/SourceSansPro-Light.ttf": "/static/media/SourceSansPro-Light.9bbfd7cb5e722de4b9f4.ttf",
+    "static/media/chromapanel-razer-chroma-logo.png": "/static/media/chromapanel-razer-chroma-logo.66c4637bdb83d1119810.png",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.7377c041.js.map": "/static/js/main.7377c041.js.map",
+    "787.829ca4f2.chunk.js.map": "/static/js/787.829ca4f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7377c041.js"
+  ]
+}
